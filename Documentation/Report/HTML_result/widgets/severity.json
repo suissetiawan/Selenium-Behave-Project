@@ -1,0 +1,1 @@
+[{"uid":"66da456347cfec83","name":"Verify user login with valid data","time":{"start":1695142857232,"stop":1695142889835,"duration":32603},"status":"passed","severity":"normal"},{"uid":"c38e405a0adaa33a","name":"Verify user login with invalid data","time":{"start":1695142889835,"stop":1695142929395,"duration":39560},"status":"passed","severity":"normal"}]
